@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Builder</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-5">Resume Builder</h1>
+        <form id="resumeForm" class="bg-white p-5 shadow rounded">
+            <div class="form-group">
+                <label for="fullName" class="font-bold">Full Name</label>
+                <input type="text" class="form-control" id="fullName" placeholder="Enter your full name">
+            </div>
+            <div class="form-group">
+                <label for="photo" class="font-bold">Photo</label>
+                <input type="file" class="form-control-file" id="photo">
+            </div>
+            <div class="form-group">
+                <label for="dob" class="font-bold">Date of Birth</label>
+                <input type="date" class="form-control" id="dob">
+            </div>
+            <div class="form-group">
+                <label for="email" class="font-bold">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter your email">
+            </div>
+            <div class="form-group">
+                <label for="description" class="font-bold">Description</label>
+                <textarea class="form-control" id="description" rows="3" placeholder="Briefly state your career objective, or summarize what makes you stand out"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="experience" class="font-bold">Experience</label>
+                <textarea class="form-control" id="experience" rows="3" placeholder="List your work experience"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="skills" class="font-bold">Skills</label>
+                <textarea class="form-control" id="skills" rows="3" placeholder="List your skills"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="education" class="font-bold">Education</label>
+                <textarea class="form-control" id="education" rows="3" placeholder="List your education details"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="certificates" class="font-bold">Certificates (Optional)</label>
+                <textarea class="form-control" id="certificates" rows="3" placeholder="List your certificates"></textarea>
+            </div>
+            <button type="button" class="btn btn-primary w-100 mt-4" onclick="generateResume()">Generate Resume</button>
+            <button type="button" class="btn btn-secondary w-100 mt-2" onclick="downloadPDF()">Download as PDF</button>
+        </form>
+        <div id="resumeOutput" class="mt-5 p-5 bg-white shadow rounded hidden">
+            <!-- Resume Preview will be inserted here -->
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
