@@ -48,7 +48,7 @@
 
 ## 🔥 Random Dev Meme  
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWL0jSWesf-33_M79-cvUtTwY3AVR5ySUe5nhg1GV4sV080Usd5zTTDMw&s=10" width="400" />
 </p>
 
 ---
@@ -64,6 +64,5 @@
 <p align="center">
   <a href="https://github.com/DavidAdeboye"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/adesanya-david-78212a2a7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
   <a href="https://twitter.com/DavidAdeboye"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
