@@ -1,37 +1,69 @@
 # 👋 Hi, I'm David Adeboye  
 
-### Full Stack & AI Developer | Building Web & AI-Powered Apps  
+### 🚀 Full Stack & AI Developer | Building Web & AI-Powered Apps  
 
-🚀 I build AI-driven applications, real-time web apps, and scalable backend systems.  
-💡 Passionate about AI, Web Development, and Optimization.  
+🚀 I build **AI-driven applications**, **real-time web apps**, and **scalable backend systems**.  
+💡 Passionate about **AI, Web Development, and Optimization**.  
 💻 Skilled in **JavaScript, TypeScript, Python, Node.js, React, Next.js, OpenAI API, LangChain**  
 
 ---
 
-## 🔧 Tech Stack  
-
-- **Languages:** JavaScript, TypeScript, Python  
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js, Express.js  
-- **AI & ML:** OpenAI API, LangChain  
-- **Databases:** MongoDB, Firebase  
-- **Other Tools:** WebSockets, REST APIs, Git  
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,firebase,flask,git" height="50">
+</p>
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Featured Projects  
 
-### 🔹 [AI Chatbot](https://github.com/DavidAdeboye/ai-chatbot)  
-AI chatbot using OpenAI API and LangChain for real-time responses.  
-
-### 🔹 [ChatterSync](https://github.com/DavidAdeboye/chatter-sync)  
-A WebSocket-based chat app with real-time messaging.  
-
-### 🔹 [Stock Trend Predictor](https://github.com/DavidAdeboye/stock-trend-predictor)  
-A machine learning model predicting stock trends using historical data.  
+| 🏆 Project Name | 💻 Tech Stack | 🔗 Link |
+|---------------|-------------|------|
+| **AI Chatbot 🤖** | Next.js + Flask + LangChain | [🔗 View](https://github.com/DavidAdeboye/ai-chatbot) |
+| **ChatterSync 💬** | React + Node.js + WebSockets | [🔗 View](https://github.com/DavidAdeboye/chatter-sync) |
+| **Stock Trend Predictor 📈** | Python + Machine Learning | [🔗 View](https://github.com/DavidAdeboye/stock-trend-predictor) |
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidAdeboye&show_icons=true&theme=tokyonight" height="160">
+</p>
 
-![GitHub Stats](https://img.shields.io/github/stars/DavidAdeboye?affiliations=OWNER&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/DavidAdeboye?style=for-the-badge)
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DavidAdeboye&theme=algolia&no-frame=true&margin-w=5">
+</p>
+
+---
+
+## 📈 GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidAdeboye&theme=react-dark" />
+</p>
+
+---
+
+## 🔥 Random Dev Meme  
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400" />
+</p>
+
+---
+
+## 💬 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Connect with Me  
+<p align="center">
+  <a href="https://github.com/DavidAdeboye"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adesanya-david-78212a2a7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+  <a href="https://twitter.com/DavidAdeboye"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
