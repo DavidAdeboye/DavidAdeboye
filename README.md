@@ -33,6 +33,5 @@ A machine learning model predicting stock trends using historical data.
 ---
 
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAdeboye&show_icons=true&theme=radical)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=DavidAdeboye&color=blue)
+![GitHub Stats](https://img.shields.io/github/stars/DavidAdeboye?affiliations=OWNER&style=for-the-badge)  
+![Followers](https://img.shields.io/github/followers/DavidAdeboye?style=for-the-badge)
