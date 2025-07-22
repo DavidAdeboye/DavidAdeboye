@@ -13,32 +13,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,firebase,flask,git" height="50">
 </p>
 
----
-
-## 🚀 Featured Projects  
-
-| 🏆 Project Name | 💻 Tech Stack | 🔗 Link |
-|---------------|-------------|------|
-| **AI Chatbot 🤖** | Next.js + Flask + LangChain | [🔗 View](https://github.com/DavidAdeboye/ai-chatbot) |
-| **ChatterSync 💬** | React + Node.js + WebSockets | [🔗 View](https://github.com/DavidAdeboye/chatter-sync) |
-| **Stock Trend Predictor 📈** | Python + Machine Learning | [🔗 View](https://github.com/DavidAdeboye/stock-trend-predictor) |
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidAdeboye&show_icons=true&theme=tokyonight" height="160">
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidAdeboye&theme=algolia&no-frame=true&margin-w=5">
-</p>
-
----
-
 ## 📈 GitHub Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidAdeboye&theme=react-dark" />
