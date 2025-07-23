@@ -1,13 +1,5 @@
 # 👋 Hi, I'm David Adeboye  
 
-### 🚀 Full Stack & AI Developer | Building Web & AI-Powered Apps  
-
-🚀 I build **AI-driven applications**, **real-time web apps**, and **scalable backend systems**.  
-💡 Passionate about **AI, Web Development, and Optimization**.  
-💻 Skilled in **JavaScript, TypeScript, Python, Node.js, React, Next.js, OpenAI API, LangChain**  
-
----
-
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,firebase,flask,git" height="50">
